@@ -1,3 +1,5 @@
+Use [prometheus/client_golang's collector](https://pkg.go.dev/github.com/prometheus/client_golang@v1.12.1/prometheus/collectors#NewDBStatsCollector) instead.
+
 # promsql
 
 [![ci](https://github.com/johejo/promsql/workflows/ci/badge.svg?branch=main)](https://github.com/johejo/promsql/actions?query=workflow%3Aci)
